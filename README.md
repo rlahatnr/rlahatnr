@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rlahatnr/](https://github.com/rlahatnr/)
 
-- 📝 I regularly write articles on [https://dev.to/rlahatnr](https://dev.to/rlahatnr)
+- 📝 I regularly write articles on [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr)
 
 - 📫 How to reach me **rlahatnr@gmail.com**
 
@@ -37,5 +37,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rlahatnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rlahatnr" height="30" width="40" /></a>
+<a href="https://velog.io/@rlahatnr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73432760/143394703-7acd0843-1dd9-4772-9532-937125689b77.png" alt="rlahatnr" height="40" width="40" /></a>
 </p>
