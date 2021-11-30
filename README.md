@@ -2,14 +2,19 @@
 <h3 align="center">"Learn quickly, understand quickly"</h3>
 
 - 🌱 I’m currently learning **machine learning**
+- 🌱 현재 **머신러닝**을 공부하고 있습니다.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rlahatnr/](https://github.com/rlahatnr/)
+- 👨‍💻 저의 모든 프로젝트들은 [https://github.com/rlahatnr/](https://github.com/rlahatnr/) 이곳에서 확인 가능합니다.
 
 - 📝 I regularly write articles on [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr)
+- 📝 제가 글을 주기적으로 작성중인 블로그는 [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr) 이곳입니다.
 
 - 📫 How to reach me **rlahatnr@gmail.com**
+- 📫 기타 문의 사항은 **rlahatnr@gmail.com**로 메일 주세요.
 
 - ⚡ Fun fact **: I was a humanities instructor.**
+- ⚡ 재미있는 사실 **: 전 인문학 강사로 활동했었습니다.**
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
