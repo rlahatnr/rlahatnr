@@ -3,7 +3,7 @@
 
 - 🌱 현재 **머신러닝**을 공부하고 있습니다
 - 👨‍💻 저의 모든 프로젝트들은 [https://github.com/rlahatnr/](https://github.com/rlahatnr/) 이곳에서 확인 가능합니다.
-- 📝 제가 글을 주기적으로 작성중인 블로그는 [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr) 이곳입니다.
+- 📝 제 블로그는 [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr) 이곳입니다.
 - 📫 기타 문의 사항은 **rlahatnr@gmail.com**로 메일 주세요.
 - ⚡ 재미있는 사실 **: 인문학 강사로 활동했었습니다.**
 
