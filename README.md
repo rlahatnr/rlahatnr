@@ -7,7 +7,7 @@
 - 📫 기타 문의 사항은 **rlahatnr@gmail.com**로 메일 주세요.
 - ⚡ 재미있는 사실 **: 인문학 강사로 활동했었습니다.**
 
-<h3 align="left">언어와 프레임워크:</h3>
+<h3 align="left">사용 언어와 프레임워크:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
