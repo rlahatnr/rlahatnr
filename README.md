@@ -3,8 +3,8 @@
 
 - 🥰 파이썬으로 자잘한 자동화 프로그램을 만드는 것을 좋아합니다.
 - 🌱 현재 **머신러닝** 온라인 강의를 들으며 공부 중입니다
-- 👨‍💻 저의 모든 프로젝트들은 [https://github.com/rlahatnr/](https://github.com/rlahatnr/) 이곳에서 확인 가능합니다.
-- 📝 제 블로그는 [https://velog.io/@rlahatnr](https://velog.io/@rlahatnr) 이곳입니다.
+- 👨‍💻 저의 모든 프로젝트들은 [이 곳](https://github.com/rlahatnr/) 에서 확인 가능합니다.
+- 📝 제 블로그는 [여기](https://velog.io/@rlahatnr) 입니다.
 - 📫 기타 문의 사항은 **rlahatnr@gmail.com**로 메일 주세요.
 - ⚡ 재미있는 사실 **: 인문학 강사로 활동했었습니다.**
 
