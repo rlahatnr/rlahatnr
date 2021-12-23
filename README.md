@@ -5,7 +5,7 @@
 - 🌱 현재 **머신러닝** 온라인 강의를 들으며 공부 중입니다
 - 👨‍💻 저의 모든 프로젝트들은 [이 곳](https://github.com/rlahatnr/) 에서 확인 가능합니다.
 - 📝 제 블로그는 [여기](https://velog.io/@rlahatnr) 입니다.
-- 📫 기타 문의 사항은 **rlahatnr@gmail.com**로 메일 주세요.
+- 📫 제게 궁금한게 있으시다면 **rlahatnr@gmail.com** 으로 메일 주세요.
 - ⚡ 재미있는 사실 **: 인문학 강사로 활동했었습니다.**
 
 <h3 align="left">사용 언어와 프레임워크:</h3>
